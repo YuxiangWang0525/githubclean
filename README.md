@@ -9,6 +9,8 @@ Block irrelevant content on GitHub that you want to search for
 
 # 声明
 某些美狗不用学BBC炒作本项目,炒作之前先想想自己能不能吃饱饭吧。
+![image](https://github.com/YuxiangWang0525/githubclean/assets/66881174/eb197fed-9678-418d-8f23-d45a259e9417)
+![image](https://github.com/YuxiangWang0525/githubclean/assets/66881174/21c4669b-9c66-4e3e-a759-55a1e90e27da)
 
 # 特别鸣谢
 @帆帆 On Zhihu.com
