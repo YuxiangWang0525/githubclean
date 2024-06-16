@@ -1,0 +1,13 @@
+[Adblock Plus 2.0]
+! Title: GitHubClean
+!-----------------------General advert blocking filters-----------------------!
+! *** easylist:easylist/easylist_general_block.txt ***
+github.com#?#div.Box-sc-g0xbh4-0.bDcVHV:has(h3.Box-sc-g0xbh4-0.eYhAUV:has-text(cirosantilli))
+github.com#?#div.Box-sc-g0xbh4-0.bDcVHV:has(h3.Box-sc-g0xbh4-0.eYhAUV:has-text(cheezcharmer))
+github.com#?#div.Box-sc-g0xbh4-0.bDcVHV:has(h3.Box-sc-g0xbh4-0.eYhAUV:has-text(zaohmeing))
+github.com#?#div.Box-sc-g0xbh4-0.bDcVHV:has(h3.Box-sc-g0xbh4-0.eYhAUV:has-text(zhaohmng-outlook-com))
+github.com#?#div.Box-sc-g0xbh4-0.bDcVHV:has(h3.Box-sc-g0xbh4-0.eYhAUV:has-text(Dimples1337))
+github.com#?#div.Box-sc-g0xbh4-0.bDcVHV:has(h3.Box-sc-g0xbh4-0.eYhAUV:has-text(codin-stuffs))
+github.com#?#div.Box-sc-g0xbh4-0.bDcVHV:has(h3.Box-sc-g0xbh4-0.eYhAUV:has-text(b0LBwZ7r5HOeh6CBMuQIhVu3))
+github.com#?#div.Box-sc-g0xbh4-0.bDcVHV:has(h3.Box-sc-g0xbh4-0.eYhAUV:has-text(b0LBwZ7r5HOeh6CBMuQIhVu3-s-random-fork))
+github.com#?#div.Box-sc-g0xbh4-0.bDcVHV:has(h3.Box-sc-g0xbh4-0.eYhAUV:has-text(FatCat8964))
