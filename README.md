@@ -1,6 +1,10 @@
 # githubclean
 Block irrelevant content on GitHub that you want to search for
-
+# QuickStart 快速开始
+Just add the following rule files|添加以下规则文件即可
+``` url
+https://githubclean.moedigital.com/githubclean.txt
+```
 # 作者想说的:
 哥们,把GitHub当垃圾场是真牛逼啊:开局一张图,反华全靠编。一口一个小粉红的叫,你美主人把你当狗看,你猜猜你主人在你没用了之后会不会把你当炮灰打?
 
